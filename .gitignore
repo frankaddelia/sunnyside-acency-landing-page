@@ -16,3 +16,5 @@
 .prettierignore
 
 *.zip
+
+node_modules
